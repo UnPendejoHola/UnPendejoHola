@@ -5,9 +5,9 @@
 
 <br clear="both">
 
-<p align="left">Hi! I'm Aaron, a passionate Minecraft Manager and Developer with more than 3 years of experience in server management. My goal is to optimize player experience and make each server unique and dynamic.<br><br>My experience includes team management, custom<br> feature development and event organization for <br>various communities. Always looking for new challenges <br>to keep learning and improving in my career.</p> <a target="_blank" align="center">
+<p align="left">Hi! I'm Aaron, a passionate Minecraft Manager and Developer with more than 3 years of experience in server management. My goal is to optimize player experience and make each server unique and dynamic.<br><a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</a><br>My experience includes team management, custom<br>  feature development and event organization for <br>various communities. Always looking for new challenges <br>to keep learning and improving in my career.</p> 
 
 
 <p align="left">🌱 I’m currently learning ...<br>Nest.js<br>Angular<br>✔ Ask me about anything, I am happy to help<br>Outside tech, 💜I love 🎮 playing videogames and🎵 listening to music<br>📫 Reach out to me at: zpanochita@gmail.com</p>
@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="java logo"  />
 </div>
 
 ###
