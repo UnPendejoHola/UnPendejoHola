@@ -1,9 +1,10 @@
-<br clear="both">
-
-<h1 align="center"><b>Hi , I'm Manuel Contreras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-<br clear="both">
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+<h1 align="center">Hi, I'm <a href="https://github.com/Aryagm">Manuel Contreras<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
 <p align="left">Hi! I'm Aaron, a passionate Minecraft Manager and Developer with more than 3 years of experience in server management. My goal is to optimize player experience and make each server unique and dynamic.<br><a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -65,4 +66,24 @@
   </a>
 </div>
 
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/UnPendejoHola/count.svg" />  
+</p>
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
