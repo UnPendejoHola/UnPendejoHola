@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi , I'm Manuel Conteras</h1>
+<h1 align="center"><b>Hi , I'm Manuel Contreras </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <br clear="both">
@@ -11,6 +11,7 @@
 
 
 <p align="left">🌱 I’m currently learning ...<br>Nest.js<br>Angular<br>✔ Ask me about anything, I am happy to help<br>Outside tech, 💜I love 🎮 playing videogames and🎵 listening to music<br>📫 Reach out to me at: zpanochita@gmail.com</p>
+
 
 
 <h2 align="center">My Skills Include</h2>
@@ -54,6 +55,8 @@
 ###
 
 <div align="center">
+
+
   <a href="https://discord.com/users/1046488706078482505" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
   </a>
@@ -62,4 +65,4 @@
   </a>
 </div>
 
-###
+
