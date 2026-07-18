@@ -7,7 +7,7 @@
   <a href="https://discord.com/users/1046488706078482505"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/unpendejo.33"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="http://nywxh.lat/"><img src="https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="mailto:zpanochita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manuelaaron65@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -20,17 +20,17 @@
         About Me
       </h2>
       <p>
-        ¡Hola! Soy <b>Manuel Contreras</b>, también conocido como <b>Aaron</b> — un <b>Full Stack Developer</b> apasionado y <b>Minecraft Manager</b> con más de <b>3 años de experiencia</b> en gestión de servidores y desarrollo de software.
+        ¡Hola! Soy <b>Manuel Contreras</b>, también conocido como <b>Aaron</b> — un <b>Full Stack Developer</b> apasionado y <b>Minecraft Manager</b> con m&aacute;s de <b>3 a&ntilde;os de experiencia</b> en gesti&oacute;n de servidores y desarrollo de software.
       </p>
       <p>
-        Mi objetivo es crear experiencias únicas, ya sea optimizando servidores de Minecraft para miles de jugadores o desarrollando aplicaciones web modernas y escalables.
+        Mi objetivo es crear experiencias &uacute;nicas, ya sea optimizando servidores de Minecraft para miles de jugadores o desarrollando aplicaciones web modernas y escalables.
       </p>
       <ul>
         <li>🌱 <b>Actualmente aprendiendo:</b> Nest.js, Angular, TypeScript</li>
-        <li>💼 <b>Experiencia:</b> Gestión de equipos, desarrollo de features custom, organización de eventos</li>
-        <li>💬 <b>Pregúntame sobre:</b> JavaScript, TypeScript, React, Node.js, Docker, Minecraft plugins</li>
-        <li>🎮 <b>Hobbies:</b> Videojuegos, música, tecnología</li>
-        <li>📫 <b>Contacto:</b> <a href="mailto:zpanochita@gmail.com">zpanochita@gmail.com</a></li>
+        <li>💼 <b>Experiencia:</b> Gesti&oacute;n de equipos, desarrollo de features custom, organizaci&oacute;n de eventos</li>
+        <li>💬 <b>Preg&uacute;ntame sobre:</b> JavaScript, TypeScript, React, Node.js, Docker, Minecraft plugins</li>
+        <li>🎮 <b>Hobbies:</b> Videojuegos, m&uacute;sica, tecnolog&iacute;a</li>
+        <li>📫 <b>Contacto:</b> <a href="mailto:manuelaaron65@gmail.com">manuelaaron65@gmail.com</a></li>
         <li>🌐 <b>Web:</b> <a href="http://nywxh.lat/">nywxh.lat</a></li>
       </ul>
     </td>
@@ -131,14 +131,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnPendejoHola&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnPendejoHola&layout=compact&hide_border=true&title_color=00e5ff&text_color=00e5ff&bg_color=0d1117&border_radius=10&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UnPendejoHola&theme=github_dark" width="95%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnPendejoHola&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideNums=00e5ff&sideLabels=FFFFFF&dates=8b949e&background=0d1117&border_radius=10" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UnPendejoHola&theme=github_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UnPendejoHola&theme=github_dark" height="190" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UnPendejoHola&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideNums=00e5ff&sideLabels=FFFFFF&dates=8b949e&background=0d1117&border_radius=10" height="190" />
   <img src="https://github-profile-trophy.vercel.app/?username=UnPendejoHola&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" height="190" />
 </div>
 
@@ -156,24 +162,6 @@
 
 ---
 
-<br />
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Headphone.png" width="25" />
-  Random Dev Quote
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Headphone.png" width="25" />
-</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="75%" />
-</div>
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
@@ -185,7 +173,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -216,7 +204,7 @@
   <a href="http://nywxh.lat/" target="_blank">
     <img src="https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" height="40" />
   </a>
-  <a href="mailto:zpanochita@gmail.com" target="_blank">
+  <a href="mailto:manuelaaron65@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
 </div>
