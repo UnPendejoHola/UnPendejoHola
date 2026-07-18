@@ -136,9 +136,9 @@
 <div align="center">
   <h3>&#128014; Snake Eating My Contributions</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/UnPendejoHola/UnPendejoHola/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnPendejoHola/UnPendejoHola/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnPendejoHola/UnPendejoHola/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/UnPendejoHola/UnPendejoHola/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
