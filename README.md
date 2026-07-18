@@ -6,7 +6,7 @@
   <a href="https://github.com/UnPendejoHola"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com/users/1046488706078482505"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/unpendejo.33"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="http://nywxh.lat/"><img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="http://nywxh.lat/"><img src="https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="mailto:manuelaaron65@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -17,18 +17,18 @@
     <td width="55%" valign="top">
       <h2>About Me</h2>
       <p>
-        Hola! Soy <b>Manuel Contreras</b>, tambien conocido como <b>Aaron</b> &mdash; un <b>Full Stack Developer</b> apasionado y <b>Minecraft Manager</b> con mas de 3 a&ntilde;os de experiencia en gestion de servidores y desarrollo de software.
+        ¡Hola! Soy <b>Manuel Contreras</b>, también conocido como <b>Aaron</b> &mdash; un <b>Full Stack Developer</b> apasionado y <b>Minecraft Manager</b> con m&aacute;s de 3 a&ntilde;os de experiencia en gesti&oacute;n de servidores y desarrollo de software.
       </p>
       <p>
-        Mi objetivo es crear experiencias unicas, ya sea optimizando servidores de Minecraft para miles de jugadores o desarrollando aplicaciones web modernas y escalables.
+        Mi objetivo es crear experiencias &uacute;nicas, ya sea optimizando servidores de Minecraft para miles de jugadores o desarrollando aplicaciones web modernas y escalables.
       </p>
       <ul>
-        <li>Aprendiendo Nest.js, Angular, TypeScript</li>
-        <li>Experiencia en gestion de equipos, desarrollo de features custom, organizacion de eventos</li>
-        <li>Preguntame sobre JavaScript, TypeScript, React, Node.js, Docker, Minecraft plugins</li>
-        <li>Hobbies: Videojuegos, musica, tecnologia</li>
-        <li>Contacto: manuelaaron65@gmail.com</li>
-        <li>Web: nywxh.lat</li>
+        <li>🌱 <b>Actualmente aprendiendo:</b> Nest.js, Angular, TypeScript</li>
+        <li>💼 <b>Experiencia:</b> Gesti&oacute;n de equipos, desarrollo de features custom, organizaci&oacute;n de eventos</li>
+        <li>💬 <b>Preg&uacute;ntame sobre:</b> JavaScript, TypeScript, React, Node.js, Docker, Minecraft plugins</li>
+        <li>🎮 <b>Hobbies:</b> Videojuegos, m&uacute;sica, tecnolog&iacute;a</li>
+        <li>📫 <b>Contacto:</b> manuelaaron65@gmail.com</li>
+        <li>🌐 <b>Web:</b> <a href="http://nywxh.lat/">nywxh.lat</a></li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <h3>Frontend</h3>
+  <h3>&#128187; Frontend</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-  <h3>Backend</h3>
+  <h3>&#128421; Backend</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -75,7 +75,7 @@
 <br/>
 
 <div align="center">
-  <h3>Bases de Datos</h3>
+  <h3>&#128451; Bases de Datos</h3>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -86,7 +86,7 @@
 <br/>
 
 <div align="center">
-  <h3>Tools &amp; DevOps</h3>
+  <h3>&#128295; Tools & DevOps</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -112,14 +112,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnPendejoHola&show_icons=true&hide_border=true&title_color=ff00ff&icon_color=ff00ff&text_color=e0e0e0&bg_color=0a0015" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UnPendejoHola&theme=radical" height="190" />
   <img src="https://streak-stats.demolab.com?user=UnPendejoHola&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&sideNums=ff00ff&sideLabels=FFFFFF&dates=8b949e&background=0a0015" height="190" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>Contribution Graph</h3>
+  <h3>&#128202; Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnPendejoHola&bg_color=0a0015&color=ff00ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true" width="95%" />
 </div>
 
@@ -128,7 +128,7 @@
 <br/>
 
 <div align="center">
-  <h3>Snake Eating My Contributions</h3>
+  <h3>&#128014; Snake Eating My Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnPendejoHola/UnPendejoHola/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnPendejoHola/UnPendejoHola/output/github-contribution-grid-snake.svg" />
@@ -155,7 +155,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
   <a href="http://nywxh.lat/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" height="40" />
   </a>
   <a href="mailto:manuelaaron65@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
